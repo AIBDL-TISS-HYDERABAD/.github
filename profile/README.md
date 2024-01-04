@@ -1,8 +1,8 @@
 # Artificial Intelligence and Big Data Lab
 
-<p align="center">
-  <img src="TISS.jpg" alt="Lab Logo">
-</p>
+<div align="center">
+  <img src="https://github.com/AIBDL-TISS-HYDERABAD/.github/assets/155432998/366d780e-b8a2-44b0-8ca9-b241064acc33" alt="TISS Logo">
+</div>
 
 ## Welcome to our Innovative Hub!
 
