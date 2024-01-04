@@ -1,6 +1,8 @@
 # Artificial Intelligence and Big Data Lab
 
-![Lab Logo](.png)
+<p align="center">
+  <img src="TISS.jpg" alt="Lab Logo">
+</p>
 
 ## Welcome to our Innovative Hub!
 
